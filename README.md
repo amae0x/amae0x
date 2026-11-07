@@ -1,6 +1,8 @@
 # Hi, I'm amae 👋
 
-**2nd-year Cybersecurity student** with a focus on **offensive security** — I enjoy breaking things to understand how to protect them.
+🎓 2nd-year student of **Computer Networks and Cybersecurity** at **Technological University of the Shannon (TUS)**, Ireland.
+
+Focused on **offensive security** — I enjoy breaking things to understand how to protect them.
 
 ## 🎯 Focus
 
