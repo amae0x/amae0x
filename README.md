@@ -14,12 +14,21 @@ Focused on **offensive security** — I enjoy breaking things to understand how 
 ## 📚 Currently learning
 
 - Linux internals and administration
-- Networking fundamentals (TCP/IP, common protocols, traffic analysis)
+- Networking — routing, switching, VLANs, network security (Cisco CCNA track)
 - Web application security (OWASP Top 10)
 - Python for security tooling and automation
 
+## 🏅 Courses
+
+**Cisco Networking Academy — CCNA track**
+
+- ✅ CCNA: Introduction to Networks
+- ✅ CCNA: Switching, Routing, and Wireless Essentials
+- ⏳ CCNA: Enterprise Networking, Security, and Automation *(in progress)*
+
 ## 🛠 Tools & Tech
 
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
