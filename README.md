@@ -4,7 +4,7 @@
 
 Focused on **offensive security** — I enjoy breaking things to understand how to protect them.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yv-amae0x-1bb)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yv-amae0x-1bb365449)
 
 ## 🎯 Focus
 
@@ -34,7 +34,7 @@ Focused on **offensive security** — I enjoy breaking things to understand how 
 
 ## 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yv-amae0x-1bb)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yv-amae0x-1bb365449)
 
 ---
 
