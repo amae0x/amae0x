@@ -4,6 +4,8 @@
 
 Focused on **offensive security** — I enjoy breaking things to understand how to protect them.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yv-amae0x-1bb)
+
 ## 🎯 Focus
 
 - **Penetration testing** — my main interest: recon, web vulnerabilities, exploitation, privilege escalation
@@ -29,6 +31,10 @@ Focused on **offensive security** — I enjoy breaking things to understand how 
 - Security tools and scripts written while learning
 - CTF and lab writeups
 - Notes on attack techniques — and how to defend against them
+
+## 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yv-amae0x-1bb)
 
 ---
 
