@@ -6,10 +6,10 @@ Interested in **offensive security**, mainly penetration testing.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yv-amae0x-1bb365449)
 
-## 🎯 Focus
+## 🎯 Interests
 
-- **Penetration testing** — my main interest: recon, web vulnerabilities, exploitation, privilege escalation
-- **Defensive security** — hardening, logging and monitoring, because a good attacker needs to know how defense works too
+- **Penetration testing** — my main interest; practicing recon, web vulnerabilities, exploitation and privilege escalation in labs and CTFs
+- **Defensive security** — learning hardening, logging and monitoring, because a good attacker needs to know how defense works too
 
 ## 📚 Currently learning
 
