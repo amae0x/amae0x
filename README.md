@@ -17,6 +17,7 @@ Focused on **offensive security** — I enjoy breaking things to understand how 
 - Networking — routing, switching, VLANs, network security (Cisco CCNA track)
 - Web application security (OWASP Top 10)
 - Python for security tooling and automation
+- OSINT — open-source reconnaissance, digital footprint analysis and source verification
 
 ## 🏅 Courses
 
@@ -38,7 +39,7 @@ Focused on **offensive security** — I enjoy breaking things to understand how 
 ## 🚧 What you'll find here
 
 - Security tools and scripts written while learning
-- CTF and lab writeups
+- CTF and lab writeups *(including OSINT challenges)*
 - Notes on attack techniques — and how to defend against them
 
 ## 📫 Connect
