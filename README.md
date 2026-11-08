@@ -17,6 +17,7 @@ Interested in **offensive security**, mainly penetration testing.
 - Networking — routing, switching, VLANs, network security (Cisco CCNA track)
 - Web application security (OWASP Top 10)
 - Python for security tooling and automation
+- C++ fundamentals
 - OSINT — open-source reconnaissance, digital footprint analysis and source verification
 
 ## 🏅 Courses
