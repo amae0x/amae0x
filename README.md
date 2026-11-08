@@ -1,4 +1,4 @@
-# Hi, I'm amae 👋
+# amae
 
 🎓 2nd-year student of **Computer Networks and Cybersecurity** at **Technological University of the Shannon (TUS)**, Ireland.
 
