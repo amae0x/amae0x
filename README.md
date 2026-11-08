@@ -2,7 +2,7 @@
 
 🎓 2nd-year student of **Computer Networks and Cybersecurity** at **Technological University of the Shannon (TUS)**, Ireland.
 
-Focused on **offensive security** — I enjoy breaking things to understand how to protect them.
+Interested in **offensive security**, mainly penetration testing.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yv-amae0x-1bb365449)
 
