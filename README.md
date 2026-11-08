@@ -8,7 +8,7 @@ Interested in **offensive security**, mainly penetration testing.
 
 ## 🎯 Interests
 
-- **Penetration testing** — my main interest; practicing recon, web vulnerabilities, exploitation and privilege escalation in labs and CTFs
+- **Penetration testing** — practicing recon, web vulnerabilities, exploitation and privilege escalation in labs and CTFs
 - **Defensive security** — learning hardening, logging and monitoring, because a good attacker needs to know how defense works too
 
 ## 📚 Currently learning
